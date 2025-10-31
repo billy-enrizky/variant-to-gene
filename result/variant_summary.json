@@ -1,0 +1,32 @@
+{
+  "chromosome_counts": {
+    "10": 5,
+    "3": 4,
+    "4": 3,
+    "11": 3,
+    "5": 3,
+    "1": 2,
+    "2": 2,
+    "12": 2,
+    "7": 2,
+    "21": 1,
+    "13": 1,
+    "18": 1,
+    "22": 1
+  },
+  "top_10_genes": {
+    "LRMDA": 1,
+    "ENSG00000255368": 1,
+    "ENSG00000237761": 1,
+    "DDC-AS1": 1,
+    "ENSG00000264104": 1,
+    "AKR1C1": 1,
+    "ENSG00000300385": 1,
+    "ENSG00000300267": 1,
+    "ENSG00000286121": 1,
+    "ENSG00000248447": 1
+  },
+  "total_variants": 30,
+  "variants_with_gene_annotation": 29,
+  "variants_without_gene_annotation": 1
+}
